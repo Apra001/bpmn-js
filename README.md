@@ -15,7 +15,7 @@ into your node-style web-application.
 
 ## Usage
 
-To get started, create a [bpmn-js](https://github.com/bpmn-io/bpmn-js) instance
+Respectively to get started, create a [bpmn-js](https://github.com/bpmn-io/bpmn-js) instance
 and render [BPMN 2.0 diagrams](https://www.omg.org/spec/BPMN/2.0.2/) in the browser:
 
 ```javascript
